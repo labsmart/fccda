@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/plano_de_fundo">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/title_activity_pontos_culturais"
+        android:id="@+id/PontosCulturaisTitulo"
+        android:typeface="serif"
+        android:textColor="@color/titulo_cor"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal" />
+
+    <ListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/lista_ponto"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>
+<!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/layout/activity_pontos_culturais.xml -->

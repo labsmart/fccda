@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/>
+    <stroke android:width="8dp"
+        android:color="#B45F04" />
+
+    <padding android:left="9dp"
+        android:top="9dp"
+        android:right="9dp"
+        android:bottom="9dp"/>
+    <corners android:radius="15dp" />
+</shape><!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/drawable/normal.xml -->

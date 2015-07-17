@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calendário</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Integrantes do grupo</string>
+    <string name="title_activity_sobre_nos">Sobre Nós</string>
+    <string name="title_activity_eventos">Eventos do dia 6</string>
+    <string name="title_activity_itabiranos_em_cena">Itabiranos Em Cena</string>
+    <string name="title_activity_dia8">Eventos do dia 8</string>
+    <string name="title_activity_banana">As aventuras de Potássio e Magrela</string>
+    <string name="title_activity_genin">Genin, o Cometa e o Anjo Torto</string>
+    <string name="title_activity_dia9">Eventos do dia 9</string>
+    <string name="title_activity_banana2">Potássio</string>
+</resources>

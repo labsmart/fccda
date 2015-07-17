@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFcccccc" />
+        </shape>
+    </item>
+
+    <item android:top="-3dp" android:bottom="-1dp" android:left="-3dp" android:right="-3dp">
+        <shape
+            android:shape="rectangle">
+
+            <stroke android:width="2dp" android:color="@color/titulo_cor" />
+            <solid android:color="#00000000" />
+        </shape>
+    </item>
+</layer-list><!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/drawable/tab_pressed.xml -->

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.arthu_000.app" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Calendário De Eventos" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Eventos"
+            android:label="Calendário De Eventos" >
+        </activity>
+        <activity
+            android:name=".Evento"
+            android:label="Evento" >
+        </activity>
+        <activity
+            android:name=".EventoFiltrado"
+            android:label="Calendário De Eventos" >
+        </activity>
+        <activity
+            android:name=".Sobre"
+            android:label="Sobre a Fundação" >
+        </activity>
+        <activity
+            android:name=".Pesquisa"
+            android:label="Filtro de Pesquisa" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul">#1E90FF</color>
+    <color name="titulo_cor">#000000</color>
+    <color name="texto_cor">#000000</color>
+    <color name="plano_de_fundo">#F5F5F5</color>
+    <color name="tbk">#DC143C</color>
+    <color name="tema_app">#61380B</color>
+    <color name="cor_texto">#ffffff</color>
+
+    <color name="titlebackgroundcolor">#3232CD</color>
+    <color name="titletextcolor">#FFFF00</color>
+
+</resources>

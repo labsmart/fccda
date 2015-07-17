@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="ate">Até</string>
+    <string name="descricao">Descrição</string>
+
+    <string name="Eventos">Próximos Eventos</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="spinnerIdade">
+        <item>Livre</item>
+        <item>10 anos</item>
+        <item>12 anos</item>
+        <item>14 anos</item>
+        <item>16 anos</item>
+        <item>18 anos</item>
+    </string-array>
+    <string-array name="spinnerValor">
+        <item>Grátis</item>
+        <item>R$ 10,00</item>
+        <item>R$ 20,00</item>
+        <item>R$ 50,00</item>
+        <item>R$ 100,00</item>
+        <item>R$ 200,00</item>
+    </string-array>
+    <string name="Sobre"><![CDATA[
+<html>
+ <head></head>
+ <body style="text-align:justify;color:#ffffffff;background-color:#FF505050;"><font color=#ffffffff>
+A Fundação Cultural Carlos Drummond de Andrade é uma entidade sem fins lucrativos. Mantida basicamente por meio de recursos municipais e parcerias, a Fundação foi instituída em maio de 1985. Seu principal objetivo é fomentar e apoiar o desenvolvimento da cultura local.
+A sede administrativa da Fundação funciona no prédio do Centro Cultural, localizado na área central de Itabira. O espaço é composto por Teatro, Biblioteca Pública, Foyer, Galeria, Departamentos de Produção, Administrativo e Financeiro, Jurídico e Superintendência. Durante todo o ano são realizadas diferentes atividades no Centro Cultural, tais como: exposições, espetáculos, shows, apresentações lúdicas para crianças (trabalho desenvolvido pela Biblioteca) etc.
+A Casa de Cultura Itabirana é uma referência no Estado. É tida como um importante polo irradiador de nossas tradições artístico-culturais: literatura, artesanato, música, manifestações folclóricas e religiosas. Parte destas tradições já ultrapassou as fronteiras do país com apresentações em diversos países como Portugal, Espanha e Itália – durante festividades que reuniram as mais diferentes atrações culturais.
+Entre os principais eventos que compõem anualmente a agenda da Fundação, destaca-se o Festival de Inverno de Itabira. Realizado deste 1974, a festa acontece tradicionalmente no mês de julho e atrai milhares de pessoas. Com uma ampla e diversificada programação, o festival consegue atingir todos os públicos – da infância à terceira idade. São oficinas, peças teatrais, intervenções em praças, bairros, escolas; shows com artistas renomados, exposições e outras atrações inclusivas.
+Aberta aos interesses da comunidade, a Fundação mantém sempre aberto um canal para que artistas itabiranos possam destacar seus trabalhos em nossos espaços. Anualmente são abertos os editais para a Lei Drummond (Lei Municipal de Incentivo à Cultura), exposições artísticas na Galeria e Foyer, além de eventos que contemplem espaços como a Casa de Drummond e a Fazenda do Pontal.
+Também compõem nossa estrutura física, o Memorial Carlos Drummond de Andrade (projeto arquitetônico de Oscar Niemeyer) e a TV Cultura de Itabira. Entre os projetos e programas permanentes, destacam-se os Drummonzinhos, Grupo Folclórico Tumbaitá e o Museu de Território Caminhos Drummondianos. A Fundação ainda é parceira da Orquestra Jovem de Violões, do Coral da Fundação e em 2010 criou sua própria Orquestra de Câmara.
+Fazer cultura está em nossas raízes. Temos os pés gravados em um solo ferrífero e alma liberta pelas palavras do poeta maior:
+“E eu não sabia que minha história era mais bonita que a de Robinson Crusoé”.
+A história mais bonita é a que se traduz em sorrisos, em lágrimas emocionadas, em aplausos, em contemplação. A Fundação Cultural abre suas portas para a expressão dos mais diferentes sentimentos. Nossos espaços, e demais estruturas, expressam o sentimento desta terra.
+ </body>
+</html>
+]]>
+    </string>
+
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\classes-538af436861d2a94d9cf7a06ba76a92ac53b4fc9.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\javax.mail-1.5.4\javax.mail-1.5.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2dd6b709ca0d35853a6061c83434a9b94533b877">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\javax.mail-1.5.4-e8eeb96f712cefbb33f39b0009fb1118f57fe8ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-605813b5f67aa77bed3df4e3837c5307745a2c00.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\additionnal\additionnal.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\additionnal-0e49f15f72099cfa66f0bee48ae22c44488637ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-3a7de6e93b234ae921735f3e3b74ca9224cbc014.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\activation\activation.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\activation-1a4e114b23b80daef39e0ab6ed200bbf6972b725.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\classes-59ab68947d698e66113fbdb266b5b62e96dc0fcd.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-71ba294a8c519eb1b188fcc30ccd01f3a4f47c70.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\classes-ca56a04478863194edd321c3ec4950cce7317286.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\mail\mail.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\mail-778d33eae9af0a5057e2863246fbf7509295c93b.jar" />
+    </item>
+    <item
+        jar="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\activation-1.1\activation-1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e6cb541461c2834bdea3eb920f1884d1eb508b50">
+        <dex dex="C:\Users\luiz\AndroidStudioProjects\TabsFragments2\app\build\intermediates\pre-dexed\debug\activation-1.1-e6d9bf7b4fd516b490396e82e4a4fcf49f09bac5.jar" />
+    </item>
+
+</items>

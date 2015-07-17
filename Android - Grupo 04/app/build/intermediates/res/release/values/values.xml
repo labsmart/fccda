@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/values/color.xml -->
+    <eat-comment/>
+    <color name="azul">#1E90FF</color>
+    <color name="plano_de_fundo">#F5F5F5</color>
+    <color name="texto_cor">#000000</color>
+    <color name="titulo_cor">#DC143C</color>
+    <declare-styleable name="MyTextView"><attr format="string" name="minhaFonte"/></declare-styleable>
+    <!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Agenda de eventos - FCCDA</string>
+    <string name="detalhe_promocao">Esta promocao</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="inf_menu_pontos_culturais">Aqui voce encontra informações ea localização dos pontos culturais que fazem parte da FCCDA.</string>
+    <string name="inf_menu_promocoes">Aqui voce encontra as promoções.</string>
+    <string name="inf_menu_sobre">Aqui voce encontra informações sobre o aplicativo e a FCCDA.</string>
+    <string name="menu_opcoes">MENU DE OPCOES</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sobre_inf_fccda">A Fundação Cultural Carlos Drummond de Andrade é uma entidade sem fins lucrativos. Mantida basicamente por meio de recursos municipais e parcerias, a Fundação foi instituída em maio de 1985. Seu principal objetivo é fomentar e apoiar o desenvolvimento da cultura local.
+A sede administrativa da Fundação funciona no prédio do Centro Cultural, localizado na área central de Itabira. O espaço é composto por Teatro, Biblioteca Pública, Foyer, Galeria, Departamentos de Produção, Administrativo e Financeiro, Jurídico e Superintendência. Durante todo o ano são realizadas diferentes atividades no Centro Cultural, tais como: exposições, espetáculos, shows, apresentações lúdicas para crianças (trabalho desenvolvido pela Biblioteca) etc.
+A Casa de Cultura Itabirana é uma referência no Estado. É tida como um importante polo irradiador de nossas tradições artístico-culturais: literatura, artesanato, música, manifestações folclóricas e religiosas. Parte destas tradições já ultrapassou as fronteiras do país com apresentações em diversos países como Portugal, Espanha e Itália – durante festividades que reuniram as mais diferentes atrações culturais.
+</string>
+    <string name="sobre_titulo">Sobre o Aplicativo</string>
+    <string name="title_activity_eventos">EventosActivity</string>
+    <string name="title_activity_filtro">FiltroActivity</string>
+    <string name="title_activity_inf_evento">Evento</string>
+    <string name="title_activity_inf_ponto_cultural">Pontos Culturais</string>
+    <string name="title_activity_inf_promocao">Promocao</string>
+    <string name="title_activity_pontos_culturais">Pontos Culturais</string>
+    <string name="title_activity_promo">Promocoes</string>
+    <string name="title_activity_promocoes">Promocoes</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="titulo_promocoes">Promocoes</string>
+    <!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+
+
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+
+    </style>
+</resources>

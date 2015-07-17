@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/plano_de_fundo"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/scrollView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="140dp">
+
+                <ImageButton
+                    android:layout_width="140dp"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/IB_pontosCulturais"
+                    android:onClick="MenuPC"
+                    android:background="@drawable/icone_pontos"
+                    android:layout_marginTop="10dp"
+                    android:gravity="center"
+                    android:layout_marginLeft="30dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+                <ImageButton
+                    android:layout_width="140dp"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/IBPromocoes"
+                    android:onClick="MenuPromocoes"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/icone_promocoes"
+                    android:layout_alignParentBottom="true"
+                    android:layout_toRightOf="@+id/scrollView"
+                    android:layout_toEndOf="@+id/scrollView" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1">
+
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/inf_menu_promocoes"
+                    android:id="@+id/inf_menu_promoções"
+                    android:gravity="center|left"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginLeft="15dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_below="@+id/inf_menu_pontos_culturais"
+                    android:textStyle="italic"
+                    android:typeface="monospace"
+                    android:textColor="@color/texto_cor"
+                    android:layout_weight="0" />
+
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/inf_menu_pontos_culturais"
+                    android:id="@+id/inf_menu_pontos_culturais"
+                    android:gravity="center|left"
+                    android:textSize="12sp"
+                    android:layout_marginTop="1dp"
+                    android:layout_marginLeft="1dp"
+                    android:layout_marginRight="30dp"
+                    android:layout_alignParentTop="true"
+                    android:textStyle="italic"
+                    android:typeface="monospace"
+                    android:textColor="@color/texto_cor"
+                    android:layout_weight="0" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="140dp">
+
+                <ImageButton
+                    android:layout_width="140dp"
+                    android:layout_height="fill_parent"
+                    android:id="@+id/IBSobre"
+                    android:onClick="MenuSobre"
+                    android:background="@drawable/icone_sobre"
+                    android:layout_marginTop="25dp"
+
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentRight="true"
+
+                    android:layout_alignParentEnd="true"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="130dp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.79">
+
+                <TextView
+                    android:layout_width="160dp"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:text="@string/inf_menu_sobre"
+                    android:id="@+id/inf_menu_sobre"
+                    android:layout_marginTop="15dp"
+                    android:textSize="12sp"
+                    android:gravity="center|left"
+                    android:layout_marginLeft="130dp"
+                    android:layout_marginRight="30dp"
+                    android:textStyle="italic"
+                    android:typeface="monospace"
+                    android:textColor="@color/texto_cor" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout><!-- From: file:/C:/Users/luiz/AndroidStudioProjects/TabsFragments2/app/src/main/res/layout/activity_abamenu.xml -->
